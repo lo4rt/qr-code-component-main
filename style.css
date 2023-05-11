@@ -6,7 +6,7 @@
   box-sizing: border-box;
 }
 
-body {
+main {
   height: 100vh;
 
   display: flex;
@@ -38,7 +38,7 @@ img {
   border-radius: 10px;
 }
 
-h2 {
+h1 {
   margin: 0 1.6rem;
   margin-top: 1rem;
   margin-bottom: 1rem;
